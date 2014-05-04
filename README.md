@@ -1,5 +1,4 @@
-# NTLANMAN: Not Totally Lame Authentication for Networked Machine
-# Authorization without NT LAN Man
+## NTLANMAN: Not Totally Lame Authentication for Networked Machine Authorization without NT LAN Man
 
 Authentication, authorization, and accounting app for SBHX hardware
 devices.
@@ -10,7 +9,7 @@ hardware around the 'space while credits are deducted from their
 account proportional to use.
 
 
-## (Soon-to-be) NT LAN MAN-enabled Hardware
+### (Soon-to-be) NTLANMAN-enabled Hardware
 
 * RFID card-based door entry
 * Laser cutter
