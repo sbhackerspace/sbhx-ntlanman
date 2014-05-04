@@ -14,3 +14,9 @@ account proportional to use.
 * RFID card-based door entry
 * Laser cutter
 * (more)
+
+
+### For Developers: Timestamp Generation/Parsing
+
+Use the `timestamp_helpers.now` and `timestamp_helpers.parse`
+functions.
